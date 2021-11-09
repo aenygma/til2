@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TIL</title>
+    <link href="https://aenygma.github.io/til2/feed.xml" rel="self" />
+    <link href="https://aenygma.github.io/til2" />
+    <updated>2021-11-09T10:26:50-08:00</updated>
+    <author>
+        <name>aenygma</name>
+    </author>
+    <id>https://aenygma.github.io/til2</id>
+
+    <entry>
+        <title>Nov 08 2021</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/nov-08-2021.html"/>
+        <id>https://aenygma.github.io/til2/nov-08-2021.html</id>
+
+        <updated>2021-11-09T10:26:50-08:00</updated>
+            <summary>
+                <![CDATA[
+                    testing nov 8 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>testing nov 8</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nov 09 2021</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/nov-09-2021.html"/>
+        <id>https://aenygma.github.io/til2/nov-09-2021.html</id>
+
+        <updated>2021-11-09T10:11:41-08:00</updated>
+            <summary>
+                <![CDATA[
+                     http://manuals.sohc4.net/cb500/ - Manuals for CB500 motorcycles 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <ul>
+    <li>http://manuals.sohc4.net/cb500/ - Manuals for CB500 motorcycles<br></li>
+  </ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

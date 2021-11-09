@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TIL",
+    "description": "",
+    "home_page_url": "https://aenygma.github.io/til2",
+    "feed_url": "https://aenygma.github.io/til2/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "aenygma"
+    },
+    "items": [
+        {
+            "id": "https://aenygma.github.io/til2/nov-08-2021.html",
+            "url": "https://aenygma.github.io/til2/nov-08-2021.html",
+            "title": "Nov 08 2021",
+            "summary": "testing nov 8 ",
+            "content_html": "<p>testing nov 8</p>\n",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-09T10:19:31-08:00",
+            "date_modified": "2021-11-09T10:26:50-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/til2/nov-09-2021.html",
+            "url": "https://aenygma.github.io/til2/nov-09-2021.html",
+            "title": "Nov 09 2021",
+            "summary": " http://manuals.sohc4.net/cb500/ - Manuals for CB500 motorcycles ",
+            "content_html": "\n  <ul>\n    <li>http://manuals.sohc4.net/cb500/ - Manuals for CB500 motorcycles<br></li>\n  </ul>",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-09T10:11:41-08:00",
+            "date_modified": "2021-11-09T10:11:41-08:00"
+        }
+    ]
+}
