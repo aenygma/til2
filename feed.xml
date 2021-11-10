@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>TIL</title>
+    <title>til</title>
     <link href="https://aenygma.github.io/til2/feed.xml" rel="self" />
     <link href="https://aenygma.github.io/til2" />
-    <updated>2021-11-09T10:26:50-08:00</updated>
+    <updated>2021-11-10T12:31:50-08:00</updated>
     <author>
         <name>aenygma</name>
     </author>
     <id>https://aenygma.github.io/til2</id>
 
-    <entry>
-        <title>Nov 08 2021</title>
-        <author>
-            <name>aenygma</name>
-        </author>
-        <link href="https://aenygma.github.io/til2/nov-08-2021.html"/>
-        <id>https://aenygma.github.io/til2/nov-08-2021.html</id>
-
-        <updated>2021-11-09T10:26:50-08:00</updated>
-            <summary>
-                <![CDATA[
-                    testing nov 8 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>testing nov 8</p>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Nov 09 2021</title>
         <author>
@@ -50,6 +29,110 @@
   <ul>
     <li>http://manuals.sohc4.net/cb500/ - Manuals for CB500 motorcycles<br></li>
   </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Oct 02 2020</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/oct-02-2020.html"/>
+        <id>https://aenygma.github.io/til2/oct-02-2020.html</id>
+            <category term="santana"/>
+            <category term="music"/>
+            <category term="brahms"/>
+
+        <updated>2021-11-10T12:19:10-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Song Similarity Santana Love of my life and Johannes Brahms vs Symphony No. 3 in F major, Op. 90 - III. Poco Allegretto 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Song Similarity</strong><br>    <a href="https://www.youtube.com/watch?v=5VRQbN94mhQ&amp;ab_channel=Kikuku94">Santana Love of my life</a> and <a href="https://www.youtube.com/watch?v=UH324lgbxaI&amp;ab_channel=Fledermaus1990">Johannes Brahms vs
+Symphony No. 3 in F major, Op. 90 - III. Poco Allegretto</a></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jul 25 2020</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/jul-25-20202.html"/>
+        <id>https://aenygma.github.io/til2/jul-25-20202.html</id>
+            <category term="sound"/>
+            <category term="pactl"/>
+            <category term="linux"/>
+
+        <updated>2021-11-10T12:24:13-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Using the following command in terminal, you can set sound level as you wish: pactl -- set-sink-volume 0 150% In this case we have set the volume of the sink #0 to 150%. ref: https://askubuntu.com/questions/322486/increase-sound-level 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Using the following command in terminal, you can set sound level as you wish:  </p>
+<p><code>pactl -- set-sink-volume 0 150%</code>   </p>
+<p>In this case we have set the volume of the sink #0 to 150%.<br>ref: <a href="https://askubuntu.com/questions/322486/increase-sound-level">https://askubuntu.com/questions/322486/increase-sound-level</a></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nov 18 2019</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/nov-18-2019-2.html"/>
+        <id>https://aenygma.github.io/til2/nov-18-2019-2.html</id>
+
+        <updated>2021-11-10T12:30:17-08:00</updated>
+            <summary>
+                <![CDATA[
+                     Bio-regionalism 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="https://en.wikipedia.org/wiki/Bioregionalism">Bio-regionalism</a> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nov 18 2019</title>
+        <author>
+            <name>aenygma</name>
+        </author>
+        <link href="https://aenygma.github.io/til2/nov-18-2019.html"/>
+        <id>https://aenygma.github.io/til2/nov-18-2019.html</id>
+            <category term="zettle"/>
+            <category term="ethics"/>
+
+        <updated>2021-11-10T12:31:50-08:00</updated>
+            <summary>
+                <![CDATA[
+                     Pixlr - Online Image Editing * 80,000 hours - Career advice, and effective altruism Sapienship - Yuval Noah Harari's Sapiens' associated foundation ZettleKasten - ZettleKasten note-taking, info organizing, giant method Roam Research - a Zettle type method of info organisation; paid Richardson Extrapolation - Numerical analysis method to accelerate convergence. Barrier - Open Source, free Synergy equivalent. software KVM Ethical Ads - Ethical Ads. Mainly focused on developers. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li><a href="https://pixlr.com/x/">Pixlr</a> - Online Image Editing *</li>
+<li><a href="https://80000hours.org/">80,000 hours</a> - Career advice, and effective altruism</li>
+<li><a href="https://www.sapienship.co/">Sapienship</a> - Yuval Noah Harari's Sapiens' associated foundation</li>
+<li><a href="https://zettelkasten.de/introduction/">ZettleKasten</a> - ZettleKasten note-taking, info organizing, giant method</li>
+<li><a href="https://roamresearch.com/">Roam Research</a> - a Zettle type method of info organisation; paid</li>
+<li><a href="https://en.wikipedia.org/wiki/Richardson_extrapolation">Richardson Extrapolation</a> - Numerical analysis method to accelerate convergence.</li>
+<li><a href="https://github.com/debauchee/barrier">Barrier</a> - Open Source, free Synergy equivalent. software KVM</li>
+<li><a href="https://www.ethicalads.io/">Ethical Ads</a> - Ethical Ads. Mainly focused on developers.</li>
+</ul>
             ]]>
         </content>
     </entry>

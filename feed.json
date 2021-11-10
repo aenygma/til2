@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "TIL",
+    "title": "til",
     "description": "",
     "home_page_url": "https://aenygma.github.io/til2",
     "feed_url": "https://aenygma.github.io/til2/feed.json",
@@ -9,20 +9,6 @@
         "name": "aenygma"
     },
     "items": [
-        {
-            "id": "https://aenygma.github.io/til2/nov-08-2021.html",
-            "url": "https://aenygma.github.io/til2/nov-08-2021.html",
-            "title": "Nov 08 2021",
-            "summary": "testing nov 8 ",
-            "content_html": "<p>testing nov 8</p>\n",
-            "author": {
-                "name": "aenygma"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-11-09T10:19:31-08:00",
-            "date_modified": "2021-11-09T10:26:50-08:00"
-        },
         {
             "id": "https://aenygma.github.io/til2/nov-09-2021.html",
             "url": "https://aenygma.github.io/til2/nov-09-2021.html",
@@ -36,6 +22,70 @@
             ],
             "date_published": "2021-11-09T10:11:41-08:00",
             "date_modified": "2021-11-09T10:11:41-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/til2/oct-02-2020.html",
+            "url": "https://aenygma.github.io/til2/oct-02-2020.html",
+            "title": "Oct 02 2020",
+            "summary": "Song Similarity Santana Love of my life and Johannes Brahms vs Symphony No. 3 in F major, Op. 90 - III. Poco Allegretto ",
+            "content_html": "<p><strong>Song Similarity</strong><br>    <a href=\"https://www.youtube.com/watch?v=5VRQbN94mhQ&amp;ab_channel=Kikuku94\">Santana Love of my life</a> and <a href=\"https://www.youtube.com/watch?v=UH324lgbxaI&amp;ab_channel=Fledermaus1990\">Johannes Brahms vs\nSymphony No. 3 in F major, Op. 90 - III. Poco Allegretto</a></p>\n",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+                   "santana",
+                   "music",
+                   "brahms"
+            ],
+            "date_published": "2020-10-02T12:11:00-07:00",
+            "date_modified": "2021-11-10T12:19:10-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/til2/jul-25-20202.html",
+            "url": "https://aenygma.github.io/til2/jul-25-20202.html",
+            "title": "Jul 25 2020",
+            "summary": "Using the following command in terminal, you can set sound level as you wish: pactl -- set-sink-volume 0 150% In this case we have set the volume of the sink #0 to 150%. ref: https://askubuntu.com/questions/322486/increase-sound-level ",
+            "content_html": "<p>Using the following command in terminal, you can set sound level as you wish:  </p>\n<p><code>pactl -- set-sink-volume 0 150%</code>   </p>\n<p>In this case we have set the volume of the sink #0 to 150%.<br>ref: <a href=\"https://askubuntu.com/questions/322486/increase-sound-level\">https://askubuntu.com/questions/322486/increase-sound-level</a></p>\n",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+                   "sound",
+                   "pactl",
+                   "linux"
+            ],
+            "date_published": "2020-07-25T12:21:00-07:00",
+            "date_modified": "2021-11-10T12:24:13-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/til2/nov-18-2019-2.html",
+            "url": "https://aenygma.github.io/til2/nov-18-2019-2.html",
+            "title": "Nov 18 2019",
+            "summary": " Bio-regionalism ",
+            "content_html": "<ul>\n<li><a href=\"https://en.wikipedia.org/wiki/Bioregionalism\">Bio-regionalism</a> </li>\n</ul>",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-18T12:30:00-08:00",
+            "date_modified": "2021-11-10T12:30:17-08:00"
+        },
+        {
+            "id": "https://aenygma.github.io/til2/nov-18-2019.html",
+            "url": "https://aenygma.github.io/til2/nov-18-2019.html",
+            "title": "Nov 18 2019",
+            "summary": " Pixlr - Online Image Editing * 80,000 hours - Career advice, and effective altruism Sapienship - Yuval Noah Harari's Sapiens' associated foundation ZettleKasten - ZettleKasten note-taking, info organizing, giant method Roam Research - a Zettle type method of info organisation; paid Richardson Extrapolation - Numerical analysis method to accelerate convergence. Barrier - Open Source, free Synergy equivalent. software KVM Ethical Ads - Ethical Ads. Mainly focused on developers. ",
+            "content_html": "<ul>\n<li><a href=\"https://pixlr.com/x/\">Pixlr</a> - Online Image Editing *</li>\n<li><a href=\"https://80000hours.org/\">80,000 hours</a> - Career advice, and effective altruism</li>\n<li><a href=\"https://www.sapienship.co/\">Sapienship</a> - Yuval Noah Harari's Sapiens' associated foundation</li>\n<li><a href=\"https://zettelkasten.de/introduction/\">ZettleKasten</a> - ZettleKasten note-taking, info organizing, giant method</li>\n<li><a href=\"https://roamresearch.com/\">Roam Research</a> - a Zettle type method of info organisation; paid</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Richardson_extrapolation\">Richardson Extrapolation</a> - Numerical analysis method to accelerate convergence.</li>\n<li><a href=\"https://github.com/debauchee/barrier\">Barrier</a> - Open Source, free Synergy equivalent. software KVM</li>\n<li><a href=\"https://www.ethicalads.io/\">Ethical Ads</a> - Ethical Ads. Mainly focused on developers.</li>\n</ul>",
+            "author": {
+                "name": "aenygma"
+            },
+            "tags": [
+                   "zettle",
+                   "ethics"
+            ],
+            "date_published": "2019-11-18T12:28:00-08:00",
+            "date_modified": "2021-11-10T12:31:50-08:00"
         }
     ]
 }
